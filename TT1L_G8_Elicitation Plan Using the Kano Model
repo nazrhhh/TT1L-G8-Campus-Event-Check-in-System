@@ -1,0 +1,48 @@
+**1. Documentation and Justification for Kano Model**
+
+This elicitation plan leverages the Kano Model to categorize system requirements for the Campus Event Check-in System based on how they influence stakeholder satisfaction. The system serves three main user roles—Students, Event Organizers, and University Admins—and integrates with existing student identification and payment processing systems.
+
+The Kano Model helps us distinguish:
+- Basic Needs (Dissatisfiers): Essential requirements that cause dissatisfaction if missing.
+- Performance Needs (Satisfiers): Directly impact user satisfaction in proportion to implementation quality.
+- Excitement Needs (Delighters): Unexpected features that increase satisfaction when present but are not expected.
+
+Given the variety of stakeholder roles and expectations, the Kano Model ensures we meet basic system expectations while also identifying high-impact improvements.
+
+**2. Justification for Selected Elicitation Techniques**
+
+To gather well-rounded requirements, we selected a combination of elicitation techniques tailored to different stakeholder groups and system roles:
+- Questionnaires: Efficient for gathering quantifiable data from large student populations.
+- Interviews: Capture detailed feedback from organizers, finance, and IT staff about workflows and system needs.
+- Workshops: Facilitate collaborative discussion among stakeholder groups to refine requirements.
+- Document Analysis: Validates integration points with student ID and payment databases.
+- Brainstorming: Generates innovative features like loyalty rewards and calendar sync.
+These techniques ensure the system meets both functional requirements and usability expectations.
+
+**3. Sample Stakeholder Questionnaire**
+
+1. How often do you participate in campus events?
+2. What methods do you currently use to register for events?
+3. Would you prefer a digital check-in using your Student ID or QR code?
+4. What types of payment methods do you use/prefer (e-wallet, card, bank transfer)?
+5. Would receiving automated reminders or confirmations improve your event experience?
+6. What difficulties have you experienced with event check-ins or payments in the past?
+7. What features would make the system easier or more engaging for you?
+8. Would you find loyalty points or rewards useful for frequent participation?
+9. What are your privacy or data concerns using a centralized check-in system?
+10. Is there any additional feedback you'd like to share about your expectations?
+
+**4. Kano Classification of Requirements**
+
+**Requirement Description**	                            **Kano Category**	            **Stakeholder Source**
+Secure Student ID login and identity verification	        Dissatisfier	                Students, IT Dept
+QR code scanning for quick check-in	                      Satisfier	                    Students
+Integration with e-wallet and bank payment systems	      Dissatisfier	                Students, Finance Dept
+Attendance tracking dashboard for organizers	            Satisfier	                    Event Organizers
+Event creation and approval workflow	                    Dissatisfier	                Organizers, Admins
+Real-time notifications for registration/payment success	Satisfier	                    Students, Admins
+Loyalty points system for event attendance	              Delighter	                    Students
+Automated reminders synced with calendar apps	            Delighter	                    Students
+Rating system or feedback option post-event	              Delighter	                    Students
+Role-based access control for system users	              Dissatisfier	                IT Dept, Admins
+System-wide analytics and reporting tools	                Satisfier	                    University Admins
