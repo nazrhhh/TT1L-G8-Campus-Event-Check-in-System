@@ -7,17 +7,16 @@ The Kano Model helps us distinguish:
 - Performance Needs (Satisfiers): Directly impact user satisfaction in proportion to implementation quality.
 - Excitement Needs (Delighters): Unexpected features that increase satisfaction when present but are not expected.
 
-Given the variety of stakeholder roles and expectations, the Kano Model ensures we meet basic system expectations while also identifying high-impact improvements.
+Given the variety of stakeholder roles and expectations, the Kano Model ensures we meet basic system expectations while also identifying high-impact improvements. Each requirement gathered is systematically categorized under the Kano Model to prioritize stakeholder needs, ensuring that the system addresses foundational expectations while identifying high-impact features that delight users. This model allows clear traceability from elicited feedback to categorized requirements, enabling the development team to prioritize implementation in a structured manner.
 
 **2. Justification for Selected Elicitation Techniques**
 
-To gather well-rounded requirements, we selected a combination of elicitation techniques tailored to different stakeholder groups and system roles:
-- Questionnaires: Efficient for gathering quantifiable data from large student populations.
-- Interviews: Capture detailed feedback from organizers, finance, and IT staff about workflows and system needs.
-- Workshops: Facilitate collaborative discussion among stakeholder groups to refine requirements.
-- Document Analysis: Validates integration points with student ID and payment databases.
-- Brainstorming: Generates innovative features like loyalty rewards and calendar sync.
-These techniques ensure the system meets both functional requirements and usability expectations.
+This elicitation plan focuses on two carefully selected techniques: questionnaires and brainstorming. These were chosen based on their suitability for the project's goals and the accessibility of our stakeholders.
+
+- Questionnaires: These are distributed to students, event organizers, and university admins. They are effective for capturing structured, large-scale feedback quickly. Predefined questions ensure clarity and standardization, making it easier to analyze patterns and prioritize features within the Kano model.
+- Brainstorming: Conducted within the team and optionally with select stakeholders, this method encourages open-ended idea generation for delighter features. It helps uncover innovative functionalities that may not emerge through structured questions.
+
+Together, these two methods provide a balanced combination of structured data and creative input, enabling comprehensive requirement elicitation aligned with the Kano classification.
 
 **3. Sample Stakeholder Questionnaire**
 
@@ -46,3 +45,5 @@ Automated reminders synced with calendar apps	            Delighter	            
 Rating system or feedback option post-event	              Delighter	                    Students
 Role-based access control for system users	              Dissatisfier	                IT Dept, Admins
 System-wide analytics and reporting tools	                Satisfier	                    University Admins
+
+The following Kano classification also includes a clear linkage to the source technique used to gather each requirement. This mapping ensures that each elicited requirement is backed by the most suitable method based on the stakeholder’s role and the nature of the information required.
