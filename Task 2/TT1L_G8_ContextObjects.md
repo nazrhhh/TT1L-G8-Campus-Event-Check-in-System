@@ -59,7 +59,7 @@
    - May require alternative check-in methods
 
 2. **External Payment Providers**
-   - Third-party payment processors that may interact with the university payment system
+   - Third-party payment processors that interact with the university payment system
    - Credit card companies and banking institutions
 
 3. **Regulatory Bodies**
