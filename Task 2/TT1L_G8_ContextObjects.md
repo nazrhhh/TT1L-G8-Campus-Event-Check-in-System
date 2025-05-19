@@ -2,6 +2,26 @@
 
 ## 1. Context Objects
 
+### a. Material Objects
+1. **Mobile Devices**
+   - Used by event staff or attendees for check-in purposes
+   - May run mobile versions of the check-in app
+   - Supports payment processing or registration tasks
+     
+2. **Event Venue**
+   - Physical locations where events take place
+   - Must support network connectivity and access control
+   - Venue capacity affects event planning and attendance limits
+  
+3. **Student ID Card**
+   - Contains student identification data (e.g., name, student number)
+   - Used for authentication and access during events
+  
+4. **Lanyard/Wristband**
+   - Used for attendee identification during events
+   - Indicate valid entry status
+
+### b. Immaterial Objects
 ### Primary Systems:
 1. **Campus Event Check-in System** (our system)
    - Core application for managing event check-ins
