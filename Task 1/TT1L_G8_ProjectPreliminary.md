@@ -63,7 +63,7 @@ organized event experience.
 - High user satisfaction from students, organizers, and administrators
 - System stability during peak event periods
 
-**i. Detailed Performance Metrics:**
+**ii. Detailed Performance Metrics:**
 1. Quantifiable improvement in check-in processing speed
 2. Seamless integration with university systems
 3. Near-perfect accuracy in identity verification and payment processing
